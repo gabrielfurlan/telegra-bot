@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0",
+    "serverless": "^1.71.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0"
+  }
+}
